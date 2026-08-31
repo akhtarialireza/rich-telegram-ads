@@ -1,0 +1,9 @@
+export const RESOLVE_CONCURRENCY = 3;
+export const RESOLVE_GAP = 150;
+export const RESOLVE_RETRIES = 2;
+export const RETRY_DELAY = 800;
+export const CREATE_GAP = 1200;
+export const ACTION_GAP = 700;
+export const DELETE_GAP = 900;
+export const MAX_TITLE = 120;
+export const UI_LIMIT = 9999;
