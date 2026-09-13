@@ -1,7 +1,7 @@
 {
   "name": "Rich Telegram Ads",
   "description": "Extension that adds bulk targeting, automatic ad splitting, and bulk ad actions to ads.telegram.org",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "manifest_version": 3,
   "content_scripts": [
     {
